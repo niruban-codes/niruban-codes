@@ -15,7 +15,7 @@ I'm a 21 year old Information Systems undergraduate from Sabaragamuwa University
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niruban-codes&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
