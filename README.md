@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a 21 year old Information Systems undergraduate from Sabaragamuwa University of Sri Lanka.<br>I love building things — systems, brands, content, ideas — anything that pushes me forward.<br>Between coding and the gym, between ambition and self growth, I’m constantly trying to become a better version of myself every day.<br><br>I’m driven by:<br><br>Creating meaningful digital experiences<br><br>Building businesses from scratch<br><br>Levelling up academically & professionally<br><br>Staying consistent with fitness<br><br>Turning setbacks into motivation<br><br>If I'm not coding, I’m probably lifting, filming something, or planning the next big move.
 
 
