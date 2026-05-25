@@ -1,6 +1,8 @@
 # About Me:
-I'm a 21 year old Information Systems undergraduate from Sabaragamuwa University of Sri Lanka.<br>I love building things — systems, brands, content, ideas — anything that pushes me forward.<br>Between coding and the gym, between ambition and self growth, I’m constantly trying to become a better version of myself every day.<br><br>I’m driven by:<br><br>Creating meaningful digital experiences<br><br>Building businesses from scratch<br><br>Levelling up academically & professionally<br><br>Staying consistent with fitness<br><br>Turning setbacks into motivation<br><br>If I'm not coding, I’m probably lifting, filming something, or planning the next big move.
-
+I build stuff. Some of it even works.
+IS undergraduate · FoxlaProductions | SlotSpot | Emora | StrayConnect (because apparently one project wasn't enough.)
+git commit -m "fixed everything (broke something else)"
+The code works. I don't know why. Please don't ask.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NirubanNallirajah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niruban.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NallirajahNiruban) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@NirubanNallirajah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirubannalllirajah@gmail.com) 
