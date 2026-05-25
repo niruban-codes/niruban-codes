@@ -1,7 +1,15 @@
 # About Me:
 I build stuff. Some of it even works.
-IS undergraduate · FoxlaProductions | SlotSpot | Emora | StrayConnect (because apparently one project wasn't enough.)
-git commit -m "fixed everything (broke something else)"
+
+**IS Undergraduate · Foxla Productions · SlotSpot · Emora · StrayConnect**
+*(because apparently one project wasn't enough)*
+
+---
+
+> `git commit -m "fixed everything (broke something else)"`
+
+---
+
 The code works. I don't know why. Please don't ask.
 
 ## 🌐 Socials:
